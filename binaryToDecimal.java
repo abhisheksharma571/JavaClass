@@ -15,5 +15,6 @@ public class binaryToDecimal {
             pow *=2;
         }
         System.out.println(ans);
+        System.out.println(ans);
     }
 }
